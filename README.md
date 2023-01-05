@@ -1,15 +1,96 @@
-# About Us
-The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general Exploratory Data Analysis (EDA) information as well as EDA case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student.
+# About Us [![GitHub](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)](https://img.shields.io/github/stars/drshahizan/Python_EDA?color=yellowgreen&logo=github)
+The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general Exploratory Data Analysis (EDA) information as well as EDA case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student. In addition, my research group also contributed materials and case studies. Thank you to the collaborators who shared their knowledge in this github.
+* [Li Jing](https://github.com/goldboy225)
+* [Eman Al Jabarti](https://github.com/aljabarti84)
 
 # Exploratory Data Analysis
-Exploratory data analysis (EDA) involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
+✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses. 
 
-**When do I use it?**: Exploratory data analysis is a powerful way to explore a data set. Even when your goal is to perform planned analyses, EDA can be used for data cleaning, for subgroup analyses or simply for understanding your data better. An important initial step in any data analysis is to plot the data. 
+✅️ EDA is used by data scientists to analyze and explore datasets and summarize the main characteristics of them.
 
+✅️ EDA makes it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
+
+✅️ EDA is primarily used to provide a better understanding of dataset's variables and their relationships.
+
+✅️ EDA can also help determine whether the statistical techniques you are considering are appropriate for data analysis.
+
+✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
+
+## Why is EDA so important in data science?
+
+✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
+
+✅️ Data scientists can use exploratory analysis to ensure that the results they produce are valid and relevant to desired business outcomes and goals.
+
+✅️ EDA also helps stakeholders by verifying that they are asking the right questions. 
+
+✅️ EDA can help to answer questions about standard deviations, categorical variables, and confidence intervals.
+
+✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
 
 ![EDA](https://drive.google.com/uc?export=view&id=1GUl7SVxNv_KUIUrDVa048SyqPUbn9w5M)
 
-## 🚀 Case Study: Evaluation Criteria
+## 📖 Notes
+### Basic Concept
+* [developers.google: Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
+* [Towardsdatascience: What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+* [Wikipedia: Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+* [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+* [careerfoundry:What Is Exploratory Data Analysis?](https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/)
+* [How To Conduct Exploratory Data Analysis in 6 Steps](https://www.indeed.com/career-advice/career-development/how-to-conduct-exploratory-data-analysis)
+* [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
+
+
+### Code & Practice
+* [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
+* [Exploratory Data Analysis (EDA): Types, Tools, Process](https://www.knowledgehut.com/blog/data-science/eda-data-science)
+* [projectpro: Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
+* [medium.com: 10 Things to do when conducting your Exploratory Data Analysis (EDA)](https://medium.com/data-folks-indonesia/10-things-to-do-when-conducting-your-exploratory-data-analysis-eda-7e3b2dfbf812)
+* [towardsdatascience.com: An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+* [EDA - Exploratory Data Analysis: Using Python Functions](https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python)
+* [Step-by-Step Exploratory Data Analysis (EDA) using Python](https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/)
+
+### Videos
+* [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
+* [Live Day 1-Live Session On EDA And Feature Engineering- Zomato Dataset](https://www.youtube.com/watch?v=F-X82zhIfBo&t=91s)
+* [Live Day 2-Live Session On EDA And Feature Engineering- Black Friday Dataset](https://www.youtube.com/watch?v=cGez1q4iOFU)
+* [Live Day 3-Live Session On EDA And Feature Engineering- Flight Price Prediction Dataset](https://www.youtube.com/watch?v=v5dqavbyE-I)
+* [Step By Step Process In EDA And Feature Engineering In Data Science Projects](https://www.youtube.com/watch?v=xhB-dmKmzRk)
+* [Exploratory Data Analysis(EDA) of Titanic dataset](https://www.youtube.com/watch?v=Ea_KAcdv1vs)
+* [Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka](https://www.youtube.com/watch?v=-o3AxdVcUtQ)
+* [Exploratory Data Analysis with Pandas Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
+* [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
+
+### Kaggle: Notebook
+* [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
+* [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis)
+* [Intro to Exploratory data analysis (EDA) in Python](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python)
+* [Topic 1. Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+* [Detailed exploratory data analysis with python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python)
+* [EDA using Python Pandas](https://www.kaggle.com/code/olgaberezovsky/eda-using-python-pandas)
+* [Pandas: EDA of Cars Dataset](https://www.kaggle.com/code/danishasif/pandas-eda-of-cars-dataset)
+* [Step-by-step Data Preprocessing & EDA](https://www.kaggle.com/code/agrawaladitya/step-by-step-data-preprocessing-eda)
+
+### Github
+* [PacktPublishing/Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python)
+* [code4kunal/eda-python-examples](https://github.com/code4kunal/eda-python-examples)
+* [SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Using-Python](https://github.com/SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Python-Project-)
+* [sandipanpaul21/EDA-in-Python](https://github.com/sandipanpaul21/EDA-in-Python)
+* [vharivinay/python-eda-viz](https://github.com/vharivinay/python-eda-viz)
+* [demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing](https://github.com/demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing)
+* [PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-](https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution_practice_exercise%2B(eda).ipynb)
+* [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
+* [ajaymache/Data analysis of used car database ](https://github.com/ajaymache/data-analysis-using-python)
+
+## 📖 Lab
+| No | Dataset | Colab |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| 1 | Boston | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1DjKNfvPGkYyHQWpiEdyK4ozm-nXVa43D#scrollTo=nzh3zNvXEOOn) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_1_ml_exploratory_data_analysis.ipynb) |
+| 2 | Car Features and MSRP | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1E99RyuEAZM8j2dvoxRqV8oWpg3kjqfBg#scrollTo=dB_j6LtTTO5j) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_2_Exploratory_Data_Analysis.ipynb) |
+| 3 | Housing Dataset | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1p8GVSVIOFFJEcFdZZdbtVd3Rysd5MDyf#scrollTo=SvL9Oi6Jlw_H) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/Lab_3_Housing_Dataset.ipynb) |
+| 4 | United Nations Development Corporation | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1bMSLUmU-gSVJh0SF6CVWx1ddM17uBe_n) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/main/lab/lab4.ipynb) |
+
+## 🚀 Case Study: Intructions
 
 Your submission will be evaluated using the following criteria:
 
@@ -47,7 +128,6 @@ Follow this step-by-step guide to work on your project.
 - Handle missing, incorrect and invalid data
 - Perform any additional steps (parsing dates, creating additional columns, merging multiple dataset etc.)
 
-
 ### Step 3: Perform exploratory analysis & visualization
 
 - Compute the mean, sum, range and other interesting statistics for numeric columns
@@ -72,31 +152,48 @@ Follow this step-by-step guide to work on your project.
 
 ### Step 6: Make a submission
 
-- Upload your notebook to e-learning.
-
-
-### Example Projects
-
-Refer to these projects for inspiration:
-
-* [Malaysia Immunisation Progress](https://www.kaggle.com/code/koayhongvin/malaysia-immunisation-progress)
-
-* [Malaysia Crop EDA](https://www.kaggle.com/code/nazihahnajla/malaysia-crop-eda)
-
-* [ASEAN Democracy Index EDA](https://www.kaggle.com/code/aradinka/asean-democracy-index-eda)
-
-* [Men's International Football Analysis](https://www.kaggle.com/code/rittickchakraborty/men-s-international-football-analysis) 
-
-* [Data Science Job Salaries Analysis with Python](https://www.kaggle.com/code/muliasujiastuti/data-science-job-salaries-analysis-with-python)
-
-* [Alteration in Technology and Job Role in 2022
-](https://www.kaggle.com/code/summerakousar/alteration-in-technology-and-job-role-in-2022)
-
-* [Data Cleaning Challenge: Inconsistent Data Entry](https://www.kaggle.com/code/melanieng/data-cleaning-challenge-inconsistent-data-entry#Get-our-environment-set-up)
+- Upload your notebook to github.
 
 ## 🌟 Case Study: Exploratory Data Analysis
 
 
 | Team | Title | Colab |  GitHub |
 | ----- | ----- | ------ | ------ | 
+| 404 Error | Property in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Lyfzd--JSeeYMgLcyJhAWK9Zj01UWRAG) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Alrite | The Exportation of Plantation in Sarawak  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Hb54DkyUD0bTf5Id9YDp8UgKptd1rKAc?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| BEFE | Covid-19 Clusters in Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/12cQW38YqpCOB5ZyUKcUKW3BpD9zeGOuB?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | Boboiboy | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Ta8kvxB4NlMHO204WZtrnfnVToPVr2J5?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/Boboiboy) |
+| COLBY | Malaysia GE-14 Result | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1sA5ZlyFjl-fTxqZqnFyA2-CigYMfkvAi?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| FANTOM | Daily recorded COVID-19 cases at state level In Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)]([https://](https://colab.research.google.com/drive/12HLf1CkEoaIoY-AucQ_Y4UP7EZi7Tr8H?usp=sharing)) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| HAHA | Foreign Direct Investment In Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1vIqufdcKSzCjetkUtgbwsNbVWBRr2Onp?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| HD | Guna Tanah Tampin 2021 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1G-Zeywt0X64DVoCrdznRYCVgthij8esy?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| KIA | Malaysia State Election 2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1mpxQwfeCGxnpV02vEkupXp997Habi9Nr?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| LAB | Malaysia Air Pollution Analysis | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1ajtdXCDlT3FCU_CzaiwGr8XjSJeeJUlY?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/blob/a74982ab6deb43b5d60b7cdd3d53599fc6289024/Malaysia%20EDA/Lab/Assignment_Pandas_Group_Lab.ipynb) |
+| MAAM | Malaysia Hospital Patient Movement Analysis | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/github/drshahizan/Python_EDA/blob/main/Malaysia%20EDA/MAAM/MAAM_Assignment_EDA.ipynb) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| MEOW | Capacity and utilisation of Intensive Care Unit (ICU) beds during COVID-19 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1imRDRyz1nn9-8JSRDA0t-x0ygD4ENXoa?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| MM | Malaysia's 14th State Election Result | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1ZZXncv53HIIRC1XH-aTMqxyDZQLs9agZ?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| PIXALATED | Number of deaths in Malaysia from 2001 to 2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1TvgXI9-qQq-cnI5-RJnxaNOLM4hvBCta?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| POTATO | Death by state, sex and age group Malaysia 2001-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/13p5O0y8FtHhh7kz58oMNUj-07s5ayBzz?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| QnX | Real Estate Kuala Lumpur Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1Fh9Ab1ytQxevmWINYOcTrAkLxkQsZarm?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/QnX) |
+| SAMVERSE | Restaurant Rating in Malaysia | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1HhipUNJ5Q-0xkD9W3qc0HAeeLw3_77Ek) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| SMOL | Population in Malaysia from 2010-2019 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1yyTEXhRZc32t6v8OZaldbK4-NsBGYk2A?usp=sharing ) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| SQ | Number of Cases and Incidents Rate of Communicable Disease by State | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1_i4mGTLrXRbNr0J6EDxEEiLkD7AXqWVo#scrollTo=90nIoWQtVJJ3) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://raw.githubusercontent.com/nursyamalia/dataset/main/Number_of_cases_and_incidence_rate_of_communicable_disease_by_state_Malaysia_2013-2018.csv) |
+| TUK | Number of Government School Pupils by District Education Office and State 2017-2018 | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1r6BEgFqPBOndPoYMQnvEfcVp6hdh2ZyI?usp=sharing) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| UWU | Property Listings in Kuala Lumpur | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://colab.research.google.com/drive/1uXYLArbaXLyIwWJyvCmaa2lAKtBunj0P?usp=sharing#scrollTo=rN1bUu8RVJJ7) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+
+## 🌟 Case Study
+
+| Name | Title | Colab |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| Li Jing | ABC | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Saleh Dhekre Saber Saleh | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Eman Al Jabarti | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Anwar Said Salim Al Talaii | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Zhu Caihua | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Shiekhah AL Binali | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Li Haopeng | ABC  | [![Open in Colab](https://img.shields.io/static/v1?label=&message=Open%20in%20Colab&labelColor=grey&color=blue&logo=google-colab)](https://) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
